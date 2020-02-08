@@ -1,1 +1,1 @@
-web: python Untitled7.py
+bot: python3 bot.py
