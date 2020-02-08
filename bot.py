@@ -1,4 +1,4 @@
-mport telebot
+import telebot
 from telebot.types import Message
 
 bot = telebot.TeleBot('1053013585:AAGZmWM_mLaeNqRv065nhQxiLqHnLhxFXfI')
